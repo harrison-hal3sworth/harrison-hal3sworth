@@ -1,0 +1,53 @@
+@font-face {
+    src: url('DuckFont.TTF');
+}
+
+#background{
+    -fx-background-image: url("DuckBackground.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 900 500;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+    -fx-padding: 50;
+}
+
+#shotCount{
+    -fx-pref-width: 130;
+    -fx-pref-height: 76px;
+    -fx-border-style: solid;
+    -fx-border-radius: 20px;
+    -fx-border-color: green;
+    -fx-border-width: 5;
+    -fx-alignment: center;
+    -fx-background-color: black;
+    -fx-background-radius: 25px;
+}
+
+#duckHitCount{
+    -fx-pref-width: 300;
+    -fx-pref-height: 75px;
+    -fx-border-style: solid;
+    -fx-border-radius: 20px;
+    -fx-border-color: green;
+    -fx-border-width: 5;
+    -fx-alignment: center;
+    -fx-background-color: black;
+    -fx-background-radius: 25px;
+    -fx-font-family: "M29_DUCK HOUND";
+    -fx-text-fill: white;
+}
+
+#scoreCount {
+    -fx-pref-width: 175;
+    -fx-pref-height: 75px;
+    -fx-border-style: solid;
+    -fx-border-radius: 20px;
+    -fx-border-color: green;
+    -fx-border-width: 5;
+    -fx-alignment: center;
+    -fx-background-color: black;
+    -fx-background-radius: 25px;
+    -fx-font-family: "M29_DUCK HOUND";
+    -fx-text-fill: white;
+
+}

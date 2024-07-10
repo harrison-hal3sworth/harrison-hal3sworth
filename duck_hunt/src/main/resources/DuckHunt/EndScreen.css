@@ -1,0 +1,30 @@
+@font-face {
+    src: url('DuckFont.TTF');
+}
+
+#menuLbl {
+    -fx-pref-width: 900;
+    -fx-pref-height: 150;
+    -fx-font-size: 50;
+    -fx-font-family: "M29_DUCK HOUND";
+    -fx-alignment: center;
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-alignment: center;
+    -fx-font-size: 25;
+    -fx-font-family: "M29_DUCK HOUND";
+}
+
+#box {
+    -fx-alignment: center;
+}
+
+#background{
+    -fx-background-image: url("DuckBackground.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 900 500;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
