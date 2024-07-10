@@ -12,9 +12,9 @@ I am a rising senior at Bucknell University’s College of Engineering, majoring
 ## Experience
 - **IBM Client Engineering Team Intern**: Technology Engineer intern, gaining hands-on experience in various technologies and client projects.
 - **Projects**:
-  - **[Project 1 Name](link-to-project-repo)**: 
-  - **[Project 2 Name](link-to-project-repo)**:
-  - **[Project 3 Name](link-to-project-repo)**:
+  - **[Diabetes Data Project](https://github.com/harrison-hal3sworth/harrison-hal3sworth/tree/main/data_mining_final_proj)**: 
+  - **[JavaFX Duck Hunt](https://github.com/harrison-hal3sworth/harrison-hal3sworth/tree/main/duck_hunt)**:
+  - **[CLI Wordle Game](https://github.com/harrison-hal3sworth/harrison-hal3sworth/tree/main/wordle)**:
 
 ## Interests
 - **Software Engineering**: Passionate about designing and developing software solutions.
