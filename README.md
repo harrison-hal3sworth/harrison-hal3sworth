@@ -3,11 +3,11 @@
 ## About Me
 I am a rising senior at Bucknell University’s College of Engineering, majoring in Computer Science & Engineering and minoring in Mathematics and Economics. Some relevant courses that I have taken (or will be taking in my final year) are:
 
-    - Computer Science : Data Structures and Algorithms, Software Engineering and Design, Algorithm Design and Analysis, Operating Systems Design, Intro to Data Mining, Machine Learning and Intelligent Systems, Computer Architecture and Organization, Digital System Design
+- Computer Science : Data Structures and Algorithms, Software Engineering and Design, Algorithm Design and Analysis, Operating Systems Design, Intro to Data Mining, Machine Learning and Intelligent Systems, Computer Architecture and Organization, Digital System Design
 
-    - Mathematics : Calculus 1 and 2, Statistics, Discrete Mathematics, Linear Algebra, Numerical Analysis
+- Mathematics : Calculus 1 and 2, Statistics, Discrete Mathematics, Linear Algebra, Numerical Analysis
 
-    - Economics : Econometrics, Financial Economics, Risk Management in Financial Markets
+- Economics : Econometrics, Financial Economics, Risk Management in Financial Markets
 
 ## Experience
 - **IBM Client Engineering Team Intern**: Technology Engineer intern, gaining hands-on experience in various technologies and client projects.
