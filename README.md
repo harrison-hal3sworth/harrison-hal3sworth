@@ -3,11 +3,11 @@
 ## About Me
 I am a rising senior at Bucknell University’s College of Engineering, majoring in Computer Science & Engineering and minoring in Mathematics and Economics. Some relevant courses that I have taken (or will be taking in my final year) are:
 
-- Computer Science : Data Structures and Algorithms, Software Engineering and Design, Algorithm Design and Analysis, Operating Systems Design, Intro to Data Mining, Machine Learning and Intelligent Systems, Computer Architecture and Organization, Digital System Design
+- **Computer Science** : Data Structures and Algorithms, Software Engineering and Design, Algorithm Design and Analysis, Operating Systems Design, Intro to Data Mining, Machine Learning and Intelligent Systems, Computer Architecture and Organization, Digital System Design
 
-- Mathematics : Calculus 1 and 2, Statistics, Discrete Mathematics, Linear Algebra, Numerical Analysis
+- **Mathematics** : Calculus 1 and 2, Statistics, Discrete Mathematics, Linear Algebra, Numerical Analysis
 
-- Economics : Econometrics, Financial Economics, Risk Management in Financial Markets
+- **Economics** : Econometrics, Financial Economics, Risk Management in Financial Markets
 
 ## Interests
 - **Economics and Finance**: Exploring quantitative analysis, financial modeling, and investment banking.
@@ -15,6 +15,14 @@ I am a rising senior at Bucknell University’s College of Engineering, majoring
 - **Software Engineering**: Passionate about designing and developing software solutions for corporate clients and consumers alike.
 - **Quantum Mechanics and Computing**: Fascinated by the potential of quantum technologies and their applications in an everevolving field that is just waiting to be brought to the mainstream.
 - **Hardware Engineering**: Interested in the synergy and integration of software and hardware systems.
+
+## Relevant Skills
+    - Python, Java, C
+    - Algorithms, advanced data structures, low-level and assembly, Anaconda Framework, HDL
+    - MATLAB and R
+    - Verilog, analog and digital circuit analysis, logic gates
+    - Excel pivot tables
+    - Scrum and Agile
 
 ## Projects and Work Experience
 - **Projects**:
@@ -37,7 +45,7 @@ In whatever avenue I end up, I strongly desire to be involved with cutting edge 
 ## Future Projects and Considerations
     - Algorithmic Trading
     - Portfolio Optimization
-    - Modeling and Backtracing
+    - Modeling and forecasting
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/harrison-halesworth-78b077248/)
