@@ -1,11 +1,13 @@
 # Welcome to Harrison's GitHub Profile! :)
 
 ## About Me
-I am a rising senior at Bucknell University’s College of Engineering, majoring in Computer Science & Engineering and minoring in Statistics. Some relevant courses that I have taken (or will be taking in my final year) are:
+I am a senior at Bucknell University’s College of Engineering, majoring in Computer Science & Engineering and minoring in Statistics. Some relevant courses that I have taken (or will be taking in my final year) are:
 
 - **Computer Science** : Data Structures and Algorithms, Software Engineering and Design, Algorithm Design and Analysis, Operating Systems Design, Intro to Data Mining, Machine Learning and Intelligent Systems, Computer Architecture and Organization, Digital System Design
 
-- **Mathematics** : Calculus 1 through 3, Statistics, Discrete Mathematics, Linear Algebra, Numerical Analysis, Probability, Statistical Inference Theory, Topics in Operations Research
+- **Mathematics** : Calculus 1 through 3, Statistics, Discrete Mathematics, Linear Algebra, Numerical Analysis, Probability, Statistical Inference Theory
+
+Set to take Topics in Operations Research or Differential Equations in the Spring
 
 ## Interests
 - **Data Science**: Enthralled by the power behind leveraging data for insights and the world of AI and machine learning models.
@@ -14,7 +16,7 @@ I am a rising senior at Bucknell University’s College of Engineering, majoring
 - **Quantum Mechanics and Computing**: Fascinated by the potential of quantum technologies and their applications in an everevolving field that is just waiting to be brought to the mainstream.
 - **Hardware Engineering**: Interested in the synergy and integration of software and hardware systems.
 
-## Relevant Skills
+## Relevant Technical Skills
     - Python, Java, C
     - Algorithms, advanced data structures, low-level and assembly, Anaconda Framework, HDL
     - MATLAB and R
@@ -34,20 +36,17 @@ I am a rising senior at Bucknell University’s College of Engineering, majoring
 
 - **IBM Client Engineering Team Intern**: Over the summer of 2024, I worked with IBM's client engineering sector, which itself is a subdivision of technical sales, and I interned as a technology engineer. As a client facing dev manufacturing Proof of Concept (PoC) projects, the development cycles were rapid, sporadic and at some points stressful, but nonetheless I enjoyed contributing to a company's belief that IBM can provide value with our products, WatsonX specifically for my team and I. For the tech engineers on the team and I, a lot of the work that came our way had to deal with frontend programming for UI's, displaying some functionality backed by WatsonX, typically some sort of chatbot or AI assistant. Prior to working to create UI's with WatsonX integrated in the backend though, we as a team were tasked with collaborating with clients to figure out first where and how we can be useful to them, what successes but also what painpoints they experience in this area, internally externally; our main goal is to empathize with the client so we can show concrete proof of a potential solution, tailor-made for them. Aside from programming, attending workshops with clients was also a key experience for me.
 
+- **Bucknell University Dominguez Center for Data Science Student Research Fellow**: In the fall of 2024, I joined the freshly minted Dominguez Center for Data Science (DCDS) at Bucknell as a student fellow and I am currrently on a research team led by the director of the DCDS working on a project dealing with tree and foliage data collected by the United States Department of Agriculture's Forest Inventory and Analysis team (USDA FIA). We partnered with them in an attempt to assess and analyze the impact that invasive plant species have on native plant species and better understand the relationship and interactions between them and other measured environmental variables, specifically in urban forest areas. We have and will be utilizing Exploratory Data Analysis, predictive machine learning, and other analysis methods to help determine these interactionas and relationships. I am confident this applied experience with data science will be useful in my future endeavors regardless of if I go to graduate school or straight into the industry after my senior year.
+
 ## Aspirations
-I have a couple of career paths in mind that are listed here in order of preference:
-
-1.) A career in data science ideally after going to graduate school to get my master's degree first.
-
-2.) A career in research related to one of these fields of interest: semiconductors, AI, macroeconomic theory, quantum, market trends, etc.
-
-3.) A career in software engineering for a tech or fintech company.
-
 In whatever avenue I end up, I strongly desire to be involved with cutting edge product or research development, putting outward pressure on the current ceiling placed on whatever field or subject, that is something that drives me the most.
 
+To get into specifics, I hope to pursue either a Master's in Data Science or a PhD in Applied Math with a focus on ML or Numerical Analysis with hopes of getting into industry research in ML and AI for a firm that is a major player in said industry. I have experience and have enjoyed using predictive ML and data science methods on projects in the past but I'd like to gain expertise in the development and research of these methods as the theory and mathematics behind them greatly intrigue me.
+
 ## Future Projects and Considerations
-- MLB player stat projections
 - Black-Scholes Option Pricer
+- Professional Sports Team Season Predictive Model
+- Sports Betting Odds EV Calculator
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/harrison-halesworth-78b077248/)
