@@ -5,7 +5,7 @@ I am a senior at Bucknell University’s College of Engineering, majoring in Com
 
 - **Computer Science** : Data Structures and Algorithms, Software Engineering and Design, Algorithm Design and Analysis, Operating Systems Design, Intro to Data Mining, Machine Learning and Intelligent Systems, Computer Architecture and Organization, Digital System Design
 
-- **Mathematics** : Calculus 1 through 3, Statistics, Discrete Mathematics, Linear Algebra, Numerical Analysis, Probability, Statistical Inference Theory
+- **Mathematics** : Calculus 1 through 3, Statistics, Discrete Mathematics, Linear Algebra, Numerical Analysis, Probability
 
 Set to take Topics in Operations Research or Differential Equations in the Spring
 
