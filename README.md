@@ -1,27 +1,27 @@
 # Welcome to Harrison's GitHub Profile! :)
 
 ## About Me
-I am a senior at Bucknell University’s College of Engineering, majoring in Computer Science & Engineering and minoring in Statistics. Some relevant courses that I have taken (or will be taking in my final year) are:
+I am a first year graduate student at Binghamton University where I am completing my M.S. in Data Science and Statistics, I am currently undecided on my track/focus but am between the Data Science and Machine Learning focus and the Statistical Analysis focus. I am set to complete the program in May 2027. I recently graduated with my B.S. in May of 2025 from Bucknell University's School of Engineering where I majored in Computer Science and Enginerring and minored in mathematics. Some relevant courses that I have taken (or am set to take) are:
 
-- **Computer Science** : Data Structures and Algorithms, Software Engineering and Design, Algorithm Design and Analysis, Operating Systems Design, Intro to Data Mining, Machine Learning and Intelligent Systems, Computer Architecture and Organization, Digital System Design
+- **Computer Science** : Data Structures and Algorithms, Software Engineering and Design, Algorithm Design and Analysis, Operating Systems Design, Computer Architecture and Organization, Digital System Design
 
-- **Mathematics** : Calculus 1 through 3, Statistics, Discrete Mathematics, Linear Algebra, Numerical Analysis, Probability
+- **Data Science** : Intro to Data Mining, Advanced Statistical Learning, Computational Statistics, Data Science with R, Data Mining with Multivariate Analysis, Machine Learning and Intelligent Systems
 
-Set to take Topics in Operations Research or Differential Equations in the Spring
+- **Mathematics** : Calculus 1 through 3, Statistics for Engineers, Discrete Mathematics, Linear Algebra, Numerical Analysis, Probability, Statistical Modeling with Regression, Computational Linear Algebra 
 
-## Interests
+## Academic Interests
 - **Data Science**: Enthralled by the power behind leveraging data for insights and the world of AI and machine learning models.
 - **Applied Math**: Enthusiastic about using mathematical principles to solve real-world problems.
 - **Software Engineering**: Passionate about designing and developing software solutions for corporate clients and consumers alike.
 - **Quantum Mechanics and Computing**: Fascinated by the potential of quantum technologies and their applications in an everevolving field that is just waiting to be brought to the mainstream.
-- **Hardware Engineering**: Interested in the synergy and integration of software and hardware systems.
 
 ## Relevant Technical Skills
     - Python, Java, C
     - Algorithms, advanced data structures, low-level and assembly, Anaconda Framework, HDL
     - MATLAB and R
+    - Modeling with Pytorch and Tensorflow
     - Verilog, analog and digital circuit analysis, logic gates
-    - Excel pivot tables
+    - Microsoft Suite Applications (Excel, Word, Powerpoint)
     - Scrum and Agile
 
 ## Projects and Work Experience
@@ -38,16 +38,16 @@ Set to take Topics in Operations Research or Differential Equations in the Sprin
 
 - **Bucknell University Dominguez Center for Data Science Student Research Fellow**: In the fall of 2024, I joined the freshly minted Dominguez Center for Data Science (DCDS) at Bucknell as a student fellow and I am currrently on a research team led by the director of the DCDS working on a project dealing with tree and foliage data collected by the United States Department of Agriculture's Forest Inventory and Analysis team (USDA FIA). We partnered with them in an attempt to assess and analyze the impact that invasive plant species have on native plant species and better understand the relationship and interactions between them and other measured environmental variables, specifically in urban forest areas. We have and will be utilizing Exploratory Data Analysis, predictive machine learning, and other analysis methods to help determine these interactionas and relationships. I am confident this applied experience with data science will be useful in my future endeavors regardless of if I go to graduate school or straight into the industry after my senior year.
 
+- **Bucknell University - Data Drive Software Developer**: During my senior year at Bucknell, I along with the rest of my project group completed our capstone senior design project as a company we called Data Drive. Our client was a professor of mechanical engineering at the university and we were tasked with modernizing and applying automation to the otherwise manual, restrictive workflow of his vehicle safety research car. From data collection on test drives, to data storage, transfer, and sharing, our client Professor Beal took on the annoyance of doing this all manually, including the merging and entry of data into locally stored spreadsheets. Our system that we developed and installed on the machine present on his research vehicle made it so that all of this was automated, the data backed up to university allocated database storage and uploaded to a shared Google Drive for he and his colleagues to sift through at their leisure, and we created a platform for him to quickly look at KPIs, shown through data visualization of selected runs. I mainly worked with one other student on the database implementation in Python, where we utilized the PyMySQL library to interface with the university allocated MariahDB storage, implementing the upload and download scripts and creating a Database class in an object oriented manner to help with interpretability, debugging and scalability. By making the upload, download, instantiation and other scripts into class methods it makes for easier maintenance, debugging and updating in the future, especially with the user manual we wrote for it. Overall, I really enjoyed this project and it opened my eyes to how extensive the software engineering process really is, especially for a project spanning over an entire academic year.
+
 ## Aspirations
 In whatever avenue I end up, I strongly desire to be involved with cutting edge product or research development, putting outward pressure on the current ceiling placed on whatever field or subject, that is something that drives me the most.
 
-To get into specifics, I hope to pursue either a Master's in Data Science or a PhD in Applied Math with a focus on ML or Numerical Analysis with hopes of getting into industry research in ML and AI for a firm that is a major player in said industry. I have experience and have enjoyed using predictive ML and data science methods on projects in the past but I'd like to gain expertise in the development and research of these methods as the theory and mathematics behind them greatly intrigue me.
+To get into specifics, I am excited by work in the areas of data science, sports analytics, actuarial science, as well as other applied data science and analytics domains like finance and healthcare. These are places where rigorous modeling meets real-world impact, hence my interest. I plan to pursue advanced study in data science and aim for an industry research role in ML/AI, finance, or sports analytics. I’ve enjoyed applying predictive methods on past projects and am now focused on mastering the underlying math and theory behind the modeling techniques I have used.
 
 ## Future Projects and Considerations
-- Black-Scholes Option Pricer
-- Professional Sports Team Season Predictive Model
-- Sports Betting Odds EV Calculator
+- Under construction
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/harrison-halesworth-78b077248/)
+- [LinkedIn](https://www.linkedin.com/in/harrison-halesworth/)
 - [Email](harrison.hal3sworth@gmail.com)
