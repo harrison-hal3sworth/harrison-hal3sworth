@@ -1,24 +1,22 @@
 # Welcome to Harrison's GitHub Profile! :)
 
 ## About Me
-I am a first year graduate student at Binghamton University where I am completing my M.S. in Data Science and Statistics, I am currently undecided on my track/focus but am between the Data Science and Machine Learning focus and the Statistical Analysis focus. I am set to complete the program in May 2027. I recently graduated with my B.S. in May of 2025 from Bucknell University's School of Engineering where I majored in Computer Science and Enginerring and minored in mathematics. Some relevant courses that I have taken (or am set to take) are:
+I am a graduate student in my final year at Binghamton University where I am completing my M.S. in Data Science and Statistics. I am expected to complete the program in May 2027. I graduated with my B.S. in May of 2025 from Bucknell University's School of Engineering where I majored in Computer Science and Enginerring and minored in mathematics. Some relevant courses that I have taken (or am set to take) are:
 
 - **Computer Science** : Data Structures and Algorithms, Software Engineering and Design, Algorithm Design and Analysis, Operating Systems Design, Computer Architecture and Organization, Digital System Design
 
-- **Data Science** : Intro to Data Mining, Advanced Statistical Learning, Computational Statistics, Data Science with R, Data Mining with Multivariate Analysis, Machine Learning and Intelligent Systems
+- **Data Science** : Intro to Data Mining, Advanced Statistical Learning, Computational Statistics, Data Science with R, Data Mining with Multivariate Analysis, Machine Learning and Intelligent Systems, Bayesian Statistics, Forecasting and Simulation
 
-- **Mathematics** : Calculus 1 through 3, Statistics for Engineers, Discrete Mathematics, Linear Algebra, Numerical Analysis, Probability, Statistical Modeling with Regression, Computational Linear Algebra 
+- **Mathematics and Science** : Calculus 1 through 3, Statistics for Engineers, Discrete Mathematics, Linear Algebra, Numerical Analysis, Probability, Statistical Modeling with Regression, Computational Linear Algebra, Probability, Classical and Modern Physics 1 and 2
 
-## Academic Interests
-- **Data Science**: Enthralled by the power behind leveraging data for insights and the world of AI and machine learning models.
-- **Applied Math**: Enthusiastic about using mathematical principles to solve real-world problems.
-- **Software Engineering**: Passionate about designing and developing software solutions for corporate clients and consumers alike.
-- **Quantum Mechanics and Computing**: Fascinated by the potential of quantum technologies and their applications in an everevolving field that is just waiting to be brought to the mainstream.
+## Career Interests
+**Under Construction**
+- 
 
 ## Relevant Technical Skills
     - Python, Java, C
     - Algorithms, advanced data structures, low-level and assembly, Anaconda Framework, HDL
-    - MATLAB and R
+    - MATLAB, R and SQL
     - Modeling with Pytorch and Tensorflow
     - Verilog, analog and digital circuit analysis, logic gates
     - Microsoft Suite Applications (Excel, Word, Powerpoint)
@@ -34,6 +32,8 @@ I am a first year graduate student at Binghamton University where I am completin
 
   - **[CLI Wordle Game](https://github.com/harrison-hal3sworth/harrison-hal3sworth/tree/main/wordle)**: This project is pretty self explanatory, my groupmate and I recreated the viral game "Wordle" and made it playable through the command prompt. We first read in numerous different pieces of text and used Regex to extract all words of length 5 and store them to be cycled through as the word to guess for each game. The application could be in a few different states and transitions depend on the status of the game, which takes place in the command line where guesses are entered and guess results are returned. The pressing challenge was giving feedback on guesses that indicate whether the letter is in the correct spot, in the word but not the correct spot, or simply not in the word, which we dealt with algorithmically. Simple at the surface, this project was sneakily challenging and was very fun overall.
 
+  - **Under Construction**
+
 - **IBM Client Engineering Team Intern**: Over the summer of 2024, I worked with IBM's client engineering sector, which itself is a subdivision of technical sales, and I interned as a technology engineer. As a client facing dev manufacturing Proof of Concept (PoC) projects, the development cycles were rapid, sporadic and at some points stressful, but nonetheless I enjoyed contributing to a company's belief that IBM can provide value with our products, WatsonX specifically for my team and I. For the tech engineers on the team and I, a lot of the work that came our way had to deal with frontend programming for UI's, displaying some functionality backed by WatsonX, typically some sort of chatbot or AI assistant. Prior to working to create UI's with WatsonX integrated in the backend though, we as a team were tasked with collaborating with clients to figure out first where and how we can be useful to them, what successes but also what painpoints they experience in this area, internally externally; our main goal is to empathize with the client so we can show concrete proof of a potential solution, tailor-made for them. Aside from programming, attending workshops with clients was also a key experience for me.
 
 - **Bucknell University Dominguez Center for Data Science Student Research Fellow**: In the fall of 2024, I joined the freshly minted Dominguez Center for Data Science (DCDS) at Bucknell as a student fellow and I am currrently on a research team led by the director of the DCDS working on a project dealing with tree and foliage data collected by the United States Department of Agriculture's Forest Inventory and Analysis team (USDA FIA). We partnered with them in an attempt to assess and analyze the impact that invasive plant species have on native plant species and better understand the relationship and interactions between them and other measured environmental variables, specifically in urban forest areas. We have and will be utilizing Exploratory Data Analysis, predictive machine learning, and other analysis methods to help determine these interactionas and relationships. I am confident this applied experience with data science will be useful in my future endeavors regardless of if I go to graduate school or straight into the industry after my senior year.
@@ -41,12 +41,15 @@ I am a first year graduate student at Binghamton University where I am completin
 - **Bucknell University - Data Drive Software Developer**: During my senior year at Bucknell, I along with the rest of my project group completed our capstone senior design project as a company we called Data Drive. Our client was a professor of mechanical engineering at the university and we were tasked with modernizing and applying automation to the otherwise manual, restrictive workflow of his vehicle safety research car. From data collection on test drives, to data storage, transfer, and sharing, our client Professor Beal took on the annoyance of doing this all manually, including the merging and entry of data into locally stored spreadsheets. Our system that we developed and installed on the machine present on his research vehicle made it so that all of this was automated, the data backed up to university allocated database storage and uploaded to a shared Google Drive for he and his colleagues to sift through at their leisure, and we created a platform for him to quickly look at KPIs, shown through data visualization of selected runs. I mainly worked with one other student on the database implementation in Python, where we utilized the PyMySQL library to interface with the university allocated MariahDB storage, implementing the upload and download scripts and creating a Database class in an object oriented manner to help with interpretability, debugging and scalability. By making the upload, download, instantiation and other scripts into class methods it makes for easier maintenance, debugging and updating in the future, especially with the user manual we wrote for it. Overall, I really enjoyed this project and it opened my eyes to how extensive the software engineering process really is, especially for a project spanning over an entire academic year.
 
 ## Aspirations
-In whatever avenue I end up, I strongly desire to be involved with cutting edge product or research development, putting outward pressure on the current ceiling placed on whatever field or subject, that is something that drives me the most.
+- Under construction
 
-To get into specifics, I am excited by work in the areas of data science, sports analytics, actuarial science, as well as other applied data science and analytics domains like finance and healthcare. These are places where rigorous modeling meets real-world impact, hence my interest. I plan to pursue advanced study in data science and aim for an industry research role in ML/AI, finance, or sports analytics. I’ve enjoyed applying predictive methods on past projects and am now focused on mastering the underlying math and theory behind the modeling techniques I have used.
+## Current Projects
+- Kalshi Prediction Market Efficieny Analysis
+- Super Smash Bros Ultimate Character Matchup Analysis
 
 ## Future Projects and Considerations
-- Under construction
+- Phillip Curve Research Paper
+- Reworking of Recession Prediction
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/harrison-halesworth/)
